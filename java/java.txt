@@ -1,0 +1,26 @@
+void main() {
+
+int v0 =5;
+ v0 =false;
+
+  var v1 = true;
+  v1 = false;
+  
+  var v2 = 3;
+  v2 = 2.1;
+  
+  dynamic v3 = 4;
+  v3 =false;
+
+  
+}
+
+void main() {
+
+var myVarInteger = 4;
+  myVarInteger = 3.5;
+
+  
+}
+
+Slave of love
